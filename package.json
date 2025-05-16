@@ -1,7 +1,7 @@
 {
   "name": "cv-builder",
   "version": "1.0.0",
-  "homepage": "https://Abdullahmojumder.github.io/cv-builder",
+  "homepage": "https://abdullahmojumder.github.io/CV-Application",
   "description": "A React application for building a CV/résumé",
   "scripts": {
     "start": "react-scripts start",
